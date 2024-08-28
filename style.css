@@ -12,7 +12,7 @@
 
 body {
   scroll-behavior: smooth;
-  background-color: #0b0081;
+  background-color: #61a0f8;
 }
 
 nav {
@@ -21,7 +21,7 @@ nav {
   left: 0;
   width: 100%;
   /* background-color: transparent; */
-  background-color: #0b0081;
+  background-color: #3b366c;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -634,7 +634,7 @@ td:last-child {
 footer {
   width: 100vw;
   height: 3.5rem;
-  background-color: #0b0081;
+  background-color: #3b366c;
   padding: 20px;
   color: #fff;
   text-align: center;
